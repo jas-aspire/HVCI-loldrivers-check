@@ -69,6 +69,12 @@ Matched drivers: ...
 Not matched: ...
 ```
 
+### Example Screenshots
+
+![Example output](https://github.com/jas-aspire/HVCI-loldrivers-check/raw/refs/heads/main/Screenshot%202026-09-12%20170443.png)
+
+![Example results](https://github.com/jas-aspire/HVCI-loldrivers-check/raw/refs/heads/main/Screenshot%202026-09-12%20170452.png)
+
 A `Not Matched` result means the tool did not find a corresponding Microsoft hash or filename rule. It does **not** necessarily mean the driver can load on a particular Windows system.
 
 ## Attribution
